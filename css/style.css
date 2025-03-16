@@ -1,0 +1,61 @@
+* {
+  font-family: "Courier New", Arial;
+  background-color: black;
+  }
+
+h1 {
+  font-family: "Brush Script MT";
+  color: red;
+  font-size: 40px;
+  text-align: center;
+}
+h2 {
+  color: #ffaa00;
+  text-align: center;
+}
+
+h3 {
+  color: #aa0000;
+  text-align: center;
+}
+
+p {
+  color: white;
+}
+
+ul {
+  background-color: #ffaa00;
+  margin: 5px;
+  border-radius: 8px;
+}
+
+ol {
+  background-color: #ff5500;
+  margin: 5px;
+  border-radius: 8px;
+}
+
+li {
+  background-color: #bbbbbb;
+  border-radius: 8px; 
+  padding-left: 8px;
+}
+
+a {
+  background-color: transparent;
+  margin: 5px;
+}
+
+.midA{
+  border-radius: 0px;
+  margin-top: -2px;
+  margin-bottom: -2px;
+}
+
+footer {
+  background-color: #690909;
+  text-align: center;
+  border-radius: 8px;
+  margin: 5px;
+  margin-top: 8px;
+}
